@@ -109,18 +109,19 @@ HTML · CSS · JavaScript · WordPress
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=devbynazmul&show_icons=true&locale=en&theme=tokyonight&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api?username=devbynazmul&show_icons=true&theme=tokyonight&hide_border=true"
   alt="GitHub Statistics"
   height="170"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbynazmul&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=devbynazmul&layout=compact&theme=tokyonight&hide_border=true"
   alt="Most Used Languages"
   height="170"
 />
