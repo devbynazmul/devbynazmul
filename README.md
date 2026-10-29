@@ -119,14 +119,15 @@ HTML · CSS · JavaScript · WordPress
 <a href="https://github.com/devbynazmul">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=devbynazmul&show_icons=true&rank_icon=github&hide_border=true&bg_color=F8FAFC&title_color=0F766E&icon_color=0891B2&text_color=334155&ring_color=0D9488&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=devbynazmul&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFF7ED&title_color=C2410C&icon_color=F97316&text_color=7C2D12&ring_color=EA580C"
     alt="Nazmul's GitHub Statistics"
   />
 </a>
+
 <a href="https://github.com/devbynazmul">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbynazmul&layout=compact&hide_border=true&bg_color=F8FAFC&title_color=0F766E&text_color=334155&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbynazmul&layout=compact&hide_border=true&bg_color=FFF7ED&title_color=C2410C&text_color=7C2D12&icon_color=F97316"
     alt="Most Used Languages"
   />
 </a>
@@ -136,7 +137,7 @@ HTML · CSS · JavaScript · WordPress
 <a href="https://github.com/devbynazmul">
   <img
     width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=devbynazmul&theme=default&hide_border=true&background=F8FAFC&ring=0D9488&fire=F59E0B&currStreakLabel=0F766E&sideLabels=334155&currStreakNum=0F766E&sideNums=0891B2&dates=64748B"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=devbynazmul&hide_border=true&background=FFF7ED&ring=EA580C&fire=F97316&currStreakNum=C2410C&sideNums=C2410C&currStreakLabel=9A3412&sideLabels=9A3412&dates=7C2D12"
     alt="GitHub Contribution Streak"
   />
 </a>
