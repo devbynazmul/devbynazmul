@@ -2,9 +2,9 @@
 <h1 align="center">Greetings! I'm Md Nazmul Hossein</h1>
 <h3 align="center">Web Designer & Developer | Building Responsive, Modern & User-Friendly Websites | HTML, CSS, JavaScript, WordPress</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nazmulhussain7969&label=Profile%20views&color=0e75b6&style=flat" alt="nazmulhussain7969" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devbynazmul&label=Profile%20views&color=0e75b6&style=flat" alt="devbynazmul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nazmulhussain7969" alt="nazmulhussain7969" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbynazmul" alt="devbynazmul" /></a> </p>
 
 - 🔭 I’m currently working on **Freelancer**
 
@@ -24,11 +24,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/marketernhsweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="marketernhsweet" height="30" width="40" /></a>
+<a href="https://twitter.com/devbynazmul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devbynazmul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devbynazmul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devbynazmul" height="30" width="40" /></a>
-<a href="https://fb.com/marketernhsweett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marketernhsweett" height="30" width="40" /></a>
-<a href="https://instagram.com/marketernhsweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marketernhsweet" height="30" width="40" /></a>
-<a href="https://medium.com/@marketernhsweet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@marketernhsweet" height="30" width="40" /></a>
+<a href="https://fb.com/devbynazmul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devbynazmul" height="30" width="40" /></a>
+<a href="https://instagram.com/devbynazmul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devbynazmul" height="30" width="40" /></a>
+<a href="https://medium.com/@devbynazmul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@devbynazmul" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/marketing with nazmul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="marketing with nazmul" height="30" width="40" /></a>
 </p>
 
