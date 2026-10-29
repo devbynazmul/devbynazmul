@@ -87,15 +87,25 @@ HTML · CSS · JavaScript · WordPress
 
 ---
 
-## 🏆 GitHub Achievements
+
+## 🏆 Developer Highlights
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=devbynazmul&theme=algolia&no-frame=true&margin-w=8" alt="GitHub Profile Trophies" />
+<a href="https://github.com/devbynazmul?tab=repositories">
+  <img src="https://img.shields.io/badge/Open_Source-Explore_Projects-0891b2?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects" />
+</a>
+
+<a href="https://github.com/devbynazmul">
+  <img src="https://img.shields.io/badge/GitHub-Developer_Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+</a>
+
+<a href="https://github.com/devbynazmul?tab=repositories">
+  <img src="https://img.shields.io/badge/Web_Development-Portfolio-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web Development Portfolio" />
 </a>
 
 </div>
+
 
 ---
 
