@@ -2,9 +2,21 @@
 <h1 align="center">Greetings! I'm Md Nazmul Hossein</h1>
 <h3 align="center">Web Designer & Developer | Building Responsive, Modern & User-Friendly Websites | HTML, CSS, JavaScript, WordPress</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devbynazmul&label=Profile%20views&color=0e75b6&style=flat" alt="devbynazmul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devbynazmul" alt="devbynazmul" /></a> </p>
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=devbynazmul&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile views" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=devbynazmul"
+      alt="GitHub Profile Trophies" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on **Freelancer**
 
