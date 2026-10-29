@@ -113,6 +113,7 @@ HTML · CSS · JavaScript · WordPress
 
 
 
+
 ## 🌈 GitHub Statistics
 
 <div align="center">
@@ -120,14 +121,14 @@ HTML · CSS · JavaScript · WordPress
 <a href="https://github.com/devbynazmul">
   <img
     width="49%"
-    src="https://github-stats-extended.vercel.app/api?username=devbynazmul&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=FFF1F2,FEF3C7,D1FAE5,DBEAFE,EDE9FE&title_color=9D174D&icon_color=EA580C&text_color=334155"
+    src="https://github-stats-extended.vercel.app/api?username=devbynazmul&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFF7ED&title_color=EA580C&icon_color=8B5CF6&text_color=334155"
     alt="Nazmul's GitHub Statistics"
   />
 </a>
 <a href="https://github.com/devbynazmul">
   <img
     width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=devbynazmul&layout=compact&langs_count=8&hide_border=true&bg_color=FFF1F2,FEF3C7,D1FAE5,DBEAFE,EDE9FE&title_color=9D174D&text_color=334155"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=devbynazmul&layout=compact&langs_count=8&hide_border=true&bg_color=F0FDFA&title_color=0F766E&text_color=334155"
     alt="Most Used Languages"
   />
 </a>
@@ -137,7 +138,7 @@ HTML · CSS · JavaScript · WordPress
 <a href="https://github.com/devbynazmul">
   <img
     width="75%"
-    src="https://streak-stats.demolab.com/?user=devbynazmul&hide_border=true&background=FFF1F2&ring=EA580C&fire=F59E0B&currStreakNum=9D174D&sideNums=0F766E&currStreakLabel=9D174D&sideLabels=334155&dates=64748B"
+    src="https://streak-stats.demolab.com/?user=devbynazmul&hide_border=true&background=FFF7ED&ring=EA580C&fire=8B5CF6&currStreakNum=EA580C&sideNums=0F766E&currStreakLabel=8B5CF6&sideLabels=334155&dates=64748B"
     alt="GitHub Contribution Streak"
   />
 </a>
@@ -145,10 +146,11 @@ HTML · CSS · JavaScript · WordPress
 <br><br>
 
 <p>
-  <b>✨ Code with creativity. Build with passion. 🌈</b>
+  <b>🌈 Code with creativity. Build with passion. ✨</b>
 </p>
 
 </div>
+
 
 
 
