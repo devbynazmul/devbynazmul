@@ -126,7 +126,7 @@ HTML · CSS · JavaScript · WordPress
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=devbynazmul&layout=compact&langs_count=8&theme=default&hide_border=true&bg_color=fff7ed&title_color=ea580c&text_color=334155"
     alt="Most Used Languages"
-    width="37%"
+    width="37.3%"
   />
 </a>
 
