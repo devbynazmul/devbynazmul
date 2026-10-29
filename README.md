@@ -112,22 +112,22 @@ HTML · CSS · JavaScript · WordPress
 
 
 
-## 📊 GitHub Statistics
+
+## 🌈 GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/devbynazmul">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=devbynazmul&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFF7ED&title_color=C2410C&icon_color=F97316&text_color=7C2D12&ring_color=EA580C"
+    src="https://github-stats-extended.vercel.app/api?username=devbynazmul&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=FFF1F2,FEF3C7,D1FAE5,DBEAFE,EDE9FE&title_color=9D174D&icon_color=EA580C&text_color=334155"
     alt="Nazmul's GitHub Statistics"
   />
 </a>
-
 <a href="https://github.com/devbynazmul">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbynazmul&layout=compact&hide_border=true&bg_color=FFF7ED&title_color=C2410C&text_color=7C2D12&icon_color=F97316"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=devbynazmul&layout=compact&langs_count=8&hide_border=true&bg_color=FFF1F2,FEF3C7,D1FAE5,DBEAFE,EDE9FE&title_color=9D174D&text_color=334155"
     alt="Most Used Languages"
   />
 </a>
@@ -136,13 +136,20 @@ HTML · CSS · JavaScript · WordPress
 
 <a href="https://github.com/devbynazmul">
   <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=devbynazmul&hide_border=true&background=FFF7ED&ring=EA580C&fire=F97316&currStreakNum=C2410C&sideNums=C2410C&currStreakLabel=9A3412&sideLabels=9A3412&dates=7C2D12"
+    width="75%"
+    src="https://streak-stats.demolab.com/?user=devbynazmul&hide_border=true&background=FFF1F2&ring=EA580C&fire=F59E0B&currStreakNum=9D174D&sideNums=0F766E&currStreakLabel=9D174D&sideLabels=334155&dates=64748B"
     alt="GitHub Contribution Streak"
   />
 </a>
 
+<br><br>
+
+<p>
+  <b>✨ Code with creativity. Build with passion. 🌈</b>
+</p>
+
 </div>
+
 
 
 
